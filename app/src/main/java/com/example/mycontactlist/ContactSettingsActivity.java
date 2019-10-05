@@ -79,7 +79,7 @@ public class ContactSettingsActivity extends AppCompatActivity {
             }
         });
     }
-    //Exercise 1 start
+    
     private void initColorChooser(){
 
         RadioGroup rgColorChooser = (RadioGroup)findViewById(R.id.radioGroupColorChooser);
